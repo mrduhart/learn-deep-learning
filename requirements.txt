@@ -30,6 +30,7 @@ cssselect2==0.2.1         # via svglib
 cycler==0.10.0            # via matplotlib
 decorator==4.4.0          # via ipython, librosa, traitlets
 defusedxml==0.6.0         # via nbconvert
+descartes
 docopt==0.6.2             # via internetarchive
 docutils==0.14            # via botocore
 emoji==0.5.2
