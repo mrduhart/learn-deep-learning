@@ -2,3 +2,4 @@ venv3/
 .ipynb_checkpoints/
 *.zip
 *.tar
+.cache*
