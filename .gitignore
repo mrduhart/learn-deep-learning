@@ -3,3 +3,7 @@ venv3/
 *.zip
 *.tar
 .cache*
+
+notebooks/data/songs_ids.txt
+notebooks/data/songs.db
+notebooks/zoo/15/songs.word2vec
